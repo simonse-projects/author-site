@@ -6,7 +6,7 @@
 
 body {
   /* apply custom rules to the body here */
-  /* font-family: 'Raleway', sans-serif; */
+
 }
 
 header {
@@ -26,8 +26,4 @@ header {
 
 section {
   padding: 80px 0;
-}
-
-.contact {
-  color: "#fff";
 }
