@@ -42,6 +42,7 @@ minima:
     social_links:
       twitter: PWSimons
       facebook: PWSimons
+    skin: coyote
 
 show_excerpts: true
 
