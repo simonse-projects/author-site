@@ -16,3 +16,4 @@ fields:
   label: categories
 pages:
 - _posts/2020-01-29-test-post.md
+- _posts/test-post-2.md
