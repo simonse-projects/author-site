@@ -1,8 +1,32 @@
 ---
 layout: post
-title: Test Post 2
+title: Welcome to my Blog!
 date: 2020-01-29 06:00:00 +0000
 categories: ''
 
 ---
-THIS IS A TEST BLOG POST!!!
+Welcome.
+
+When my daughter-in-law Courtney asked me if I'd be willing to start a blog, I had two questions.
+
+The first was, "What is a blog?"
+
+Too embarrassed to confess my ignorance to my daughter-in-law by asking this question directly, I did what any 21st-century American male would do. I Googled it.
+
+A blog, apparently, is an online diary of sorts. They have art blogs, music blogs, video blogs, blogs that are educational (edublogs), very short blogs (microblogs). There are blogs about every type of topic imaginable. 
+
+Or unimaginable. There is a blog dedicated to describing the contents of various people's pockets. There is a blog that transforms pop songs into Shakespearean sonnets. One guy cut a hole in a piece of bread, put it over his cat's head, and took a picture. People submit similar photos to him, which he posts on his blog. It's called Breaded Cats.
+
+I'm afraid mine will be much more sedate. I'm a boomer, after all.
+
+Oh, yeah, so the second question was "Why should I do a blog?"
+
+I'm still trying to figure that out, but I told my daughter-in-law "yes" anyway.
+
+What do I expect to post? Jokes and puns, almost certainly. Travelogues. Random lists. Perhaps some "microstories." Excerpts from my so-called books, published or unpublished. Musings on various topics.  You can suggest motifs to me, which I will either enthusiastically adopt or (more likely) bemusedly ignore. Make your own blog.
+
+What am I NOT going to post? My thoughts on politics - there is too much of this going around as it is, and we only want to read stuff that we agree with. Ditto for spirituality/religion. Photos of breaded cats.
+
+Well, we'll see how this goes for a while.
+
+Pete
