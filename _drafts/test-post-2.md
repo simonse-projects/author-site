@@ -27,6 +27,10 @@ What do I expect to post? Jokes and puns, almost certainly. Travelogues. Random 
 
 What am I NOT going to post? My thoughts on politics - there is too much of this going around as it is, and we only want to read stuff that we agree with. Ditto for spirituality/religion. Photos of breaded cats.
 
+Andy Warhol was wrong. In the future, not everyone will be world-famous for fifteen minutes.
+
+But I predict that everyone WILL have a blog.
+
 Well, we'll see how this goes for a while.
 
 Pete
