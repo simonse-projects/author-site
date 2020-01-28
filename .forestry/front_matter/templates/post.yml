@@ -15,5 +15,5 @@ fields:
   name: categories
   label: categories
 pages:
+- _posts/2020-01-29-test-post-2.md
 - _posts/an-excerpt-from-the-coyote.md
-- _posts/test-post-2.md
