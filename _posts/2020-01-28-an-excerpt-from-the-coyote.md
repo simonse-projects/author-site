@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An excerpt from "The Coyote"
-date: 2020-01-28 15:00:00 +0000
+date: 2020-01-28T15:00:00.000+00:00
 categories: ''
 
 ---
@@ -121,6 +121,6 @@ The door opens, and Detective Cervantes enters, holding a folder...
 
 [\[1\]](#_ftnref1) Oh, damn. I guess he does now. And a footnote as well. Unfortunate.
 
-[\[2\]](#_ftnref2) If you're not a fan of Abbott and Costello, you might as well skip forward a couple pages. Yes, that's right. There are several pages of this.
+[\[2\]](#_ftn2) If you're not a fan of Abbott and Costello, you might as well skip forward a couple pages. Yes, that's right. There are several pages of this.
 
-[\[3\]](#_ftnref3) For those of you keeping score, the correct order of the concert is: (1) The Who; (2) OK Go; (3) U2; (4) No Doubt; (5) Yes; (6) Them; and (7) Ozzy Osbourne. One point for each band. The Band is not on the program. Minus five points if you included them (but not if you included Them).
+[\[3\]](#_ftn3) For those of you keeping score, the correct order of the concert is: (1) The Who; (2) OK Go; (3) U2; (4) No Doubt; (5) Yes; (6) Them; and (7) Ozzy Osbourne. One point for each band. The Band is not on the program. Minus five points if you included them (but not if you included Them).
