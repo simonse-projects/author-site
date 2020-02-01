@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An excerpt from "The Coyote"
-date: 2020-01-28T15:00:00.000+00:00
+date: 2020-01-30 15:00:00 +0000
 categories: ''
 
 ---
