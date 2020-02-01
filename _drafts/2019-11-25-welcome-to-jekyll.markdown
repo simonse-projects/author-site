@@ -1,30 +1,28 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Prologue To A Book I Haven't Written
 date: 2019-11-25T14:44:31.000+00:00
-categories: jekyll update
+categories: []
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I wrote the following prologue, but so far I have no idea what the book is about.
 
-Jekyll requires blog post files to be named according to the following format:
+Prologue
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In the beginning, there was nothing but God. Time did not exist, but if it had it would have been a really long, boring interval. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+And finally, God got fed up with nothingness and said, "Let There Be Light."  And there was a Big Bang, although no one was around to hear it except God. And it was Good.
 
-Jekyll also offers powerful support for code snippets:
+And because Light cannot exist without its opposite, there was Darkness. And it was Evil.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+And God created the Heavens and the Earth, although truth be told this took longer than a day. And He created the Angels. And some were light and some were dark and many were shades of gray.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+And He created Man. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+And then He said, "Let's play a game and see whether Man becomes light or dark."
+
+So He created the Devil. And the Devil said, "Would You like to make a little wager on this?" And God did.
+
+And while God was looking elsewhere, the Devil whispered into Man's ear, "free will."
+
+And then all Hell broke loose.
