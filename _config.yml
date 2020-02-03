@@ -21,9 +21,8 @@
 title: Pete Simons
 email: hi@petesimonsauthor.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Don Quixote in Manhattan?
-  As the story begins, the cranium of Don Quincy, a retired NYPD
-  detective, has an unfortunate encounter with a heavy falling object.
+  Pete Simons is a writer and a recovering financial executive.
+  His blog is a random collection of microstories, lists, ideas for novels and miscellaneous ramblings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PWSimons
