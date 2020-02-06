@@ -5,8 +5,6 @@ date: 2020-02-06 15:00:00 +0000
 categories: short story, fiction
 
 ---
-The Fatuous Feline
-
 The horizon shimmered in the hundred-degree desert heat as Officer William “Bull” Pupp stepped from his patrol car into the dry furnace otherwise known as Tuba City, Arizona. He scanned the scene. Apart from the road, there was nothing here but dirt, cactus and burrow weed. Pupp walked toward the group of white jump-suited technicians who were cordoning off the area around the body.
 
 The coroner was kneeling over the deceased. He looked up as Pupp approached. “Hot enough for you, Bull?”
