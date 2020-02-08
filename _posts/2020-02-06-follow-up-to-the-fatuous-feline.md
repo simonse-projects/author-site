@@ -21,7 +21,7 @@ The third main character is Officer Bull Pupp, a dog who eventually falls in lov
 
 The cartoon is set in the desert, reportedly based upon the terrain in Coconino County, Arizona. The characters speak in a strange dialect using flowery expressions. Here is an example: “Ooy, He’s saying something at you – Ooy, it sims to be something in werra roughish, and werra uncootish lengwidge.” Krazy Kat often calls Ignatz her “l’ill ainjil.”
 
-The strip also had a kind of self-knowledge, which was unusual for its time. In one cartoon, Officer Pupp berates the cartoonist for not finishing his drawing of the jail in time to lock up Ignatz. In another, Ignatz walks off leaving his word bubble behind on the page. Krazy Kat retrieves it and ties it to his tail.
+The strip also had a kind of self-knowledge, which was unusual for its time. In one cartoon, Officer Pupp berates the cartoonist for not finishing his drawing of the jail in time to lock up Ignatz. In another, Krazy walks off leaving his/her word bubble behind on the page. Ignatz retrieves it and ties it to Krazy's tail.
 
 A number of animated cartoons were made of the strip, none of them very good. The most well-known (which I remember watching as a child) was the King Features version. In these, Krazy Kat was clearly drawn to be female and the storylines were dumbed down. Intellectual and self-referencing, it was not, as you can see here:
 
