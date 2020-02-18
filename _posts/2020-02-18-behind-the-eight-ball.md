@@ -41,7 +41,7 @@ Dr. Iko Sahedron
 
 888 Spheroid Road
 
-(Above the Pool Hall)
+(Behind the Eight Ball pool hall)
 
 By Appointment Only – 1-800-888-8000
 
