@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Behind The Eight Ball
+title: 'Short Story: Behind The Eight Ball'
 date: 2020-02-18 18:00:00 +0000
 categories: short story, fiction
 
