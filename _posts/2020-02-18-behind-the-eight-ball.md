@@ -186,3 +186,7 @@ The next thing Roy knew, he was floating in mid-air. He looked down at his prone
 Roy felt his soul being sucked downward. “Wait! I didn’t even kill her! I can’t be punished for just _thinking_ something, can I?”
 
 “Signs point to yes, Roy.” And Dr. Sahedron laughed loudly as Roy fell through the floor and into darkness.
+
+***
+
+Pete Simons
