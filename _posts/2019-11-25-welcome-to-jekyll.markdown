@@ -30,3 +30,7 @@ So He created the Devil. And the Devil said, "Would You like to make a little si
 And while God was looking elsewhere, the Devil whispered into Man's ear, "free will."
 
 And then all Hell broke loose.
+
+***
+
+Pete Simons

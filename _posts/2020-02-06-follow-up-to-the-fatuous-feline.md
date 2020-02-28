@@ -26,3 +26,7 @@ The strip also had a kind of self-knowledge, which was unusual for its time. In 
 A number of animated cartoons were made of the strip, none of them very good. The most well-known (which I remember watching as a child) was the King Features version. In these, Krazy Kat was clearly drawn to be female and the storylines were dumbed down. Intellectual and self-referencing, it was not, as you can see here:
 
 [https://www.youtube.com/watch?v=RiXz3WMQQf0](https://www.youtube.com/watch?v=RiXz3WMQQf0 "https://www.youtube.com/watch?v=RiXz3WMQQf0")
+
+***
+
+Pete Simons
