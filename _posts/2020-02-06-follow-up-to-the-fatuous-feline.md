@@ -15,7 +15,7 @@ Here is an example of the strip:
 
 ![cartoon page of Ignatz Mouse resolves not to throw any more bricks at Krazy.](https://upload.wikimedia.org/wikipedia/commons/1/1a/Krazykat.jpg)
 
-The basic formula of the comic remained constant over its life. Krazy Kat (whose sexuality is left distinctly ambiguous) is in love with Ignatz Mouse. Ignatz despises Krazy, and pretty much everyone else as well. He throws bricks at Krazy Kat’s head. These never seem to hurt him/her, to Ignatz frustration. Instead, she/he takes them as evidence of Ignatz’ love.
+The basic formula of the comic remained constant over its life. Krazy Kat (whose sexuality is left distinctly ambiguous) is in love with Ignatz Mouse. Ignatz despises Krazy, and pretty much everyone else as well. He throws bricks at Krazy Kat’s head. These never seem to hurt him/her, to Ignatz's frustration. Instead, she/he takes them as evidence of Ignatz’s love.
 
 The third main character is Officer Bull Pupp, a dog who eventually falls in love with Krazy Kat. He sends Ignatz off to jail in most of the strips. Sometimes he prevents the brick from hitting Krazy, but mostly not.
 
