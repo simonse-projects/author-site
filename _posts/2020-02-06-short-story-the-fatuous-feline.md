@@ -168,3 +168,7 @@ Officer Pupp handcuffs Ignatz and marches him to the squad car. Once he’s insi
 Bull does, and a high-pitched voice rings out. “Ignatz? Is that you, my love? My Lil’ Ainjil? I got your gift. Thank you sooo much.”
 
 “Aw, Krap!” mutters Ignatz.
+
+***
+
+Pete Simons
