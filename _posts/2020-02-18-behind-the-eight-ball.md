@@ -31,7 +31,7 @@ _But what’s this? Busted Radiator seems to be trying to bite Last Gasp in the 
 
 _And that’s it! The race is over! A surprise win by Last Gasp! Soggy Biscuits is second, and Over Confident takes third place. Oh, my! Last Gasp has fallen! He’s down. Luckily his jockey was able to jump free before the horse trapped him underneath. It’s pandemonium out there, folks! The veterinarians are rushing to the scene…_
 
-Roy was no longer paying attention. He couldn’t believe his good fortune. He’d now be able to replace his mother’s money, and clear a $500 profit for himself. Being of a superstitious nature, he kissed Dr. Sahedron’s card and placed it in his pocket. Then he set off to collect his winnings.
+Roy was no longer paying attention. He couldn’t believe his good fortune. He’d now be able to replace his mother’s money and clear a $500 profit for himself. Being of a superstitious nature, he kissed Dr. Sahedron’s card and placed it in his pocket. Then he set off to collect his winnings.
 
 **???**
 
@@ -89,7 +89,7 @@ Exacerbated, Roy rephrased, “Will the stock price of Apple Corporation increas
 
 After the same routine, the answer returned. “You may rely on it. You have no questions remaining.” And Dr. Sahedron smiled. And disappeared in a puff of smoke.
 
-Roy jumped out of his chair, and ran toward the spot where the Doctor had been levitating. He waved his arms around. There was nothing there but air. He scanned the room for hidden projectors but saw nothing.
+Roy jumped out of his chair and ran toward the spot where the Doctor had been levitating. He waved his arms around. There was nothing there but air. He scanned the room for hidden projectors but saw nothing.
 
 “What the hell?” he exclaimed.
 
