@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Trouble with Time Travel
+title: The Trouble With Time Travel
 date: 2020-03-08 14:00:00 +0000
 categories: short story, fiction
 
