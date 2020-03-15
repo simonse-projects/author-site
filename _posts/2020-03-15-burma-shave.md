@@ -15,7 +15,7 @@ His lights illuminated the first of many small signposts along the side of the h
 
 “NO MATTER,” read the first sign.
 
-“HOW YOU SLICE IT,” said the second, a few yards later.
+“HOW YOU SLICE IT,” said the second, a few hundred yards later.
 
 “IT’S STILL YOUR FACE”
 
