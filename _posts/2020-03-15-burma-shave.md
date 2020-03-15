@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burma Shave
+title: Burma-Shave
 date: 2020-03-15 16:00:00 +0000
 categories: short story, fiction
 
@@ -23,7 +23,7 @@ His lights illuminated the first of many small signposts along the side of the h
 
 “USE”
 
-“**_BURMA SHAVE_**,” proclaimed the last.
+“**_BURMA-SHAVE_**,” proclaimed the last.
 
 Frank drove on. There’d be no more of these signs for at least a few miles.
 
@@ -33,7 +33,7 @@ _Damn_, thought Frank. _There goes my peaceful evening_.
 
 \**********************************************************************************
 
-Roger Burnbaum rubbed his eyes and tried not to let the monotonous sound of the windshield wipers put him to sleep. He rolled the window down a crack. It let in some rain but the breeze would help keep him awake. He tried the radio again but he was too far afield to get a good signal. The only welcome distractions were the occasional Burma Shave signs.
+Roger Burnbaum rubbed his eyes and tried not to let the monotonous sound of the windshield wipers put him to sleep. He rolled the window down a crack. It let in some rain but the breeze would help keep him awake. He tried the radio again but he was too far afield to get a good signal. The only welcome distractions were the occasional Burma-Shave signs.
 
 “WHEN DRIVING”
 
@@ -45,7 +45,7 @@ Roger Burnbaum rubbed his eyes and tried not to let the monotonous sound of the 
 
 “USE SOOTHING”
 
-“**_BURMA SHAVE_**”
+“**_BURMA-SHAVE_**”
 
 His head nodded and quickly popped back up. _Damn._ _If this keeps up I’ll have to pull over for the night, even if it means missing the sales meeting in Reno. The boss will have a fit, but that’ll still be better than running off the road in the middle of nowhere … WHAT THE …? God Damn It!_
 
@@ -87,7 +87,7 @@ They both stared out the window as some more signs appeared.
 
 “A CUSTOMER”
 
-“**_BURMA SHAVE_**”
+“**_BURMA-SHAVE_**”
 
 Jim chuckled. “Well, well, well. I’m sure glad I wasn’t standin’ on the other side of them signs when you drove up.”
 
@@ -131,9 +131,9 @@ Officer Frank Waymouth drove the cruiser cautiously down the highway, not wantin
 
 “USE”
 
-“**_BURMA SHAVE_**”
+“**_BURMA-SHAVE_**”
 
-Frank chuckled. He had to hand it to those Burma Shave advertising guys. They really had a great sense of humor.
+Frank chuckled. He had to hand it to those Burma-Shave advertising guys. They really had a great sense of humor.
 
 The radio broke the silence. “Attention all units. We have a report of a naked body lying in the drainage ditch on the north side of Highway 50, about ten miles east of Eureka. Who can respond? Over.”
 
@@ -159,7 +159,7 @@ _Even if he’s one of the escaped convicts they mentioned on the radio, he migh
 
 “Oh, just wondering how much further it is to Reno. Haven’t seen a signpost in a while.”
 
-“Yeah, except for Burma Shave. They must have spent a ton of money planting those things all around the country. Look, here’s another one.”
+“Yeah, except for Burma-Shave. They must have spent a ton of money planting those things all around the country. Look, here’s another one.”
 
 “DON’T TRY TO PASS”
 
@@ -171,7 +171,7 @@ _Even if he’s one of the escaped convicts they mentioned on the radio, he migh
 
 “OF”
 
-“**_BURMA SHAVE_**”
+“**_BURMA-SHAVE_**”
 
 Jim chuckled. “Yeah, that’s pretty darn good, don’tcha think, Roger? Hey, you happen to have any gum on you?”
 
@@ -273,7 +273,7 @@ As Frank approached the Reno city limits, he noticed a set of signs.
 
 “SHOOT THE BRUTES WITH”
 
-“**_BURMA SHAVE_**”
+“**_BURMA-SHAVE_**”
 
 \************************************************************************************
 
