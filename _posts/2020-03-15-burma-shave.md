@@ -251,7 +251,7 @@ Roger was getting angry. He got out and looked at the nameplate on the officer�
 
 “Look, Officer Waymouth, I …”
 
-“My name ain’t Waymouth,” Frank interrupted. He shot Roger point blank in the right temple. Blood splattered onto Frank’s face and uniform. The body dropped heavily to the ground and Frank kicked it into the ditch.
+“My name ain’t Waymouth,” Frank interrupted. He shot Roger point-blank in the right temple. Blood splattered onto Frank’s face and uniform. The body dropped heavily to the ground and Frank kicked it into the ditch.
 
 Frank dove into the back seat and rapidly changed into Roger’s clothes, wiping his face clean with the towel. He exited and threw the towel and uniform into the ditch, keeping the gun. Then he patted down Jim’s body, pocketed his wallet, and walked calmly back to the patrol car to turn off the flashers.
 
