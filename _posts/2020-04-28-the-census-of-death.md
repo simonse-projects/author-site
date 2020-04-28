@@ -155,9 +155,9 @@ I’m not dead, Judith. How do you kill someone with a staple gun anyway? Cut it
 
 Fine. But let’s agree that I’m not dead either, ok?
 
-Fine. 
+Fine.
 
-Miraculously, the ax wound in Judith’s back was not fatal after all. But it severed a nerve which caused her to lose the ability to narrate. 
+Miraculously, the ax wound in Judith’s back was not fatal after all. But it severed a nerve which caused her to lose the ability to narrate.
 
 How's that, Judith? Are we good?
 
@@ -181,13 +181,13 @@ What’s Question 3, then? Let me guess. How about, “Are you sure your answer 
 
 I see.
 
-Derek has been very thoughtful this whole time. Suddenly he asks, “Hey, wait a minute. If she’s alive now, does that mean I’m back at number eleven?”
+Derek has been very thoughtful this whole time. Suddenly he asked, “Hey, wait a minute. If she’s alive now, does that mean I’m back at number eleven?”
 
 Yes.
 
-“That sucks. I haven’t made any progress at all, then. What’s Stephen King going to think?”
+“That sucks. I haven’t made any progress in this story at all, then. What’s Stephen King going to think?”
 
-Who cares what he thinks? He’s probably going to pick someone or something else over you, anyway. Maybe an evil dog. Or a car. Or a hotel. Or a banana. I don’t think he’s written about a monster banana yet. But I could be wrong.
+Who cares what he thinks? He’s probably going to pick someone or something else to be the villain instead of you, anyway. Maybe an evil dog. Or a car. Or a hotel. Or a banana. I don’t think he’s written about a monster banana yet. But I could be wrong.
 
 “No, seriously, I need to show some initiative. What am I going to say when he asks me how many victims I killed in my last story? Eleven doesn’t sound like very many. I need an even dozen, at least.”
 
