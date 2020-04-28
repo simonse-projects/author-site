@@ -75,7 +75,7 @@ Both boys stood for a moment, dumbstruck.
 
 “You have to. You hit the ball, Bobby. It’s your fault. And if you don’t get it back, I’ll tell.”
 
-Bobby looked at his brother. _Yeah, he’ll tell_. _I guess I’ll have to get the ball,_ Bobby thought_._
+Bobby looked at his brother. _Yeah, he’ll tell_. _I guess I’ll have to get the ball,_ Bobby thought.
 
 _Bullshit. That’s not what I’m thinking at all._
 
@@ -93,7 +93,7 @@ Seeing Bobby hesitate, his brother Tom decided to get the ball himself. He start
 
 Look, Bobby, I’m the narrator and you have to do whatever I say. It’s as simple as that. Now walk toward the damn house.
 
-_There’s a serial killer in there. I’m not going to die._
+_To hell with that, Narrator. There’s a serial killer in there. I’m not going to die._
 
 You’re not supposed to know that there’s a serial killer in there.
 
@@ -117,7 +117,7 @@ Another figure appeared next to the man in the window. “What’s going on?” 
 
 “That ax in your back says differently,” smirked the serial killer. “Hey narrator, you tell her.”
 
-Judith Krantz was totally dead. She lay in a growing puddle of blood on the living room floor. She definitely was not standing in the window carrying on a conversation with her murderer.
+Judith Krantz was totally dead. She died three days ago, in fact. Her body lay in a large puddle of dried blood on the living room floor. She definitely was not standing in the window carrying on a conversation with her murderer.
 
 _Oh, stuff it, Narrator_, she thought, as she stood at the window.
 
@@ -155,13 +155,21 @@ I’m not dead, Judith. How do you kill someone with a staple gun anyway? Cut it
 
 Fine. But let’s agree that I’m not dead either, ok?
 
-Fine. Miraculously, the ax wound in Judith’s back was not fatal after all. But it severed a nerve which caused her to lose the ability to narrate. Are we good?
+Fine. 
 
-“We’re good,” said the newly recovered Judith. “Should I continue with the census questions then? Question 1. How many people were living or staying in this house on April 1, 2020?”
+Miraculously, the ax wound in Judith’s back was not fatal after all. But it severed a nerve which caused her to lose the ability to narrate. 
 
-“Um, just me, I guess,” said Derek.
+How's that, Judith? Are we good?
 
-“Very good. Question 2. Where there any additional people staying here on April 1, 2020, that you did not include in Question 1?”
+“We’re good,” said the newly recovered Judith. “Should I continue with the census questions then?"
+
+Sure. Why not? I have no idea where this story is going anymore, so have at it.
+
+Judith turned to Derek and said, "Question 1. How many people were living or staying in this house on April 1, 2020?”
+
+“Um, just me, I guess,” said Derek. “I’m not positive, because it was a bit before my time if you know what I mean.”
+
+“Very good. I'll put down 'one.' Question 2. Where there any additional people staying here on April 1, 2020, that you did not include in Question 1?”
 
 So Question 2 simply asks whether you lied in your answer to Question 1? Seriously?
 
@@ -179,7 +187,7 @@ Yes.
 
 “That sucks. I haven’t made any progress at all, then. What’s Stephen King going to think?”
 
-Who cares what he thinks? He’s probably going to pick someone or something else over you, anyway. Maybe an evil dog. Or a car. Or a hotel. Or a banana.
+Who cares what he thinks? He’s probably going to pick someone or something else over you, anyway. Maybe an evil dog. Or a car. Or a hotel. Or a banana. I don’t think he’s written about a monster banana yet. But I could be wrong.
 
 “No, seriously, I need to show some initiative. What am I going to say when he asks me how many victims I killed in my last story? Eleven doesn’t sound like very many. I need an even dozen, at least.”
 
@@ -189,7 +197,7 @@ Who cares what he thinks? He’s probably going to pick someone or something els
 
 “Maybe you can kill the narrator,” suggested Judith.
 
-You tried that already, Judith, don’t you remember? Besides, I thought we had a deal. Maybe you can kill the author instead.
+You tried killing me already, Judith, don’t you remember? It didn't work. Besides, I thought we had a deal. Maybe you can kill the author instead.
 
 “Aren’t you the author?” asked Derek.
 
