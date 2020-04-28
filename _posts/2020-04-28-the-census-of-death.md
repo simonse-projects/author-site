@@ -7,7 +7,7 @@ categories: short story, fiction
 ---
 Judith Krantz approached the ramshackle old house cautiously, noting the five-foot-tall weeds in the garden. Some of the windows were boarded, and others contained broken panes of glass. A few two-by-fours were propping up the west side of the structure. _There’s no way that anyone lives here_, she thought. But the home’s address was on her list, and she felt she had a duty to at least knock upon the door.
 
-She stepped upon the first wooden stair and it creaked with her weight. She moved to the side, hoping that her foot wouldn’t go straight through the rotted board, and brushed against a cobweb. _This is nuts. I should just turn around and get the hell out of here._ _Aw, what the hell, I’m almost there. Might as well just get it over with._
+She stepped upon the first wooden stair and it creaked with her weight. She moved to the side, hoping that her foot wouldn’t go straight through the rotted board, and brushed against a cobweb. _This is nuts. I should just turn around and get out of here._ _Aw, what the hell, I’m almost there. Might as well just get it over with._
 
 Judith approached the door, from which pieces of green paint were flaking off. I’ll probably get lead poisoning if I touch that thing, she thought. She removed her red scarf and wrapped it around her hand, then knocked upon the door, which creaked open with her touch.
 
@@ -39,7 +39,7 @@ _Just a cat_, she thought. _At least I hope it was a cat. I’m being silly. He�
 
 She entered the room.
 
-The last thing she saw with her peripheral vision was a figure moving quickly from the right. Then there was an incredibly sharp pain in her back. She dropped to the floor. A liquid touched her hand. She realized that it was her own blood, then she lost consciousness.
+The last thing she saw with her peripheral vision was a figure moving quickly from the right. There was an incredibly sharp pain in her back. She dropped to the floor. A liquid touched her hand. She realized that it was her own blood, then she lost consciousness.
 
 “That makes twelve,” said the voice. “One more.”
 
