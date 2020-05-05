@@ -27,3 +27,12 @@ header {
 section {
   padding: 80px 0;
 }
+
+.card {
+  background-color: #375a7f;
+}
+
+.btn-buy {
+  background-color: #29ab9e;
+  color: #fff;
+}
