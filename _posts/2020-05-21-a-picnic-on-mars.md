@@ -59,7 +59,7 @@ As usual, Michael and Jerome gave her a floating ovation when she was done.
 
 “Well,” Michael admitted, “maybe a little.”
 
-\------------------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 The entry into Mars orbit went smoothly. The retro rockets fired and the spacecraft slowed down to just the right speed to allow it to circle the planet without falling in. Ares would complete a full revolution around Mars every ninety minutes.
 
@@ -161,7 +161,7 @@ Ten minutes later, the radio crackled, “Olympus Base, this is Houston. Roger y
 
 “Roger that, Commander.”
 
-\-----------------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 Two and a half hours later, the speakers began playing “Start Me Up” by the Rolling Stones. Jerome’s voice followed, with “Wakey, wakey guys! I’m back and I can’t say how pleased I am to find out you touched down without a hitch.”
 
@@ -255,7 +255,7 @@ When it was over, Jerome radioed in his approval. He and Michael applauded.
 
 It was their first night on Mars, and time for bed.
 
-\------------------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 At five a.m., the astronauts wake up to the sound of “Spaceman” by Harry Nilsson.
 
@@ -321,7 +321,7 @@ Two hours in, there was a loud cracking sound and the cabin lights went out.
 
 “It will take a while to figure it out. Hand me the emergency manual and help me work through the checklist.”
 
-\-----------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 It took several hours to assess the situation, by which time the storm had passed.
 
@@ -369,7 +369,7 @@ _Oh, great._ Michael glanced at Sandra, who was playing it remarkably cool under
 
 The message droned on for another fifteen minutes. Michael and Sandra scribbled furiously as if their lives depended on it. Because they did.
 
-\-----------------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 They worked through the night, stripping wire, soldering, and twirling wires together and wrapping them in duct tape. It was cramped, feverish work but somehow they kept going. They had no time to despair. Not if they wanted to survive.
 
@@ -411,7 +411,7 @@ Michael thought about it. It was a crazy idea. It was an awesome, crazy idea. He
 
 Michael was glad the COM was currently out of communication range on the other side of the planet. He didn’t want to hear Jerome tell him what a moron he was being. He and Sandra suited up quickly, hoping to get out of the MEL before Houston ordered them to stop.
 
-\------------------------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------
 
 The atmosphere was still clouded with dust from the storm, but there was plenty of light to see by. The walk to the base of the cliff was fairly easy. There were a few small to medium-sized craters they had to circle around, but none of them presented any real difficulty. They found the ledge that they had seen on the drone footage and carefully began to climb to the cave entrance, now clearly visible.
 
@@ -477,7 +477,7 @@ Michael closed the top of the basket. He picked it up by its convenient carrying
 
 “We don’t. We leave it outside the MEL and forget we ever found it. I don’t want to go straight to an insane asylum when we get back to Earth. Do you?”
 
-When they got back to the MEL, they contacted Houston and indicated that the cave visit had been successful and that they were carrying samples which might indicate the past existence of microbial life on the planet. More importantly, on a second search of the MEL they found some spare high-gauge wire behind one of the access panels. They were connecting it now.
+When they got back to the MEL, they contacted Houston and indicated that the cave visit had been successful and that they were carrying samples that might indicate the past existence of microbial life on the planet. More importantly, on a second search of the MEL they found some spare high-gauge wire behind one of the access panels. They were connecting it now.
 
 Ten minutes later the speakers transmitted, “Olympus Base, I was instructed to give you hell for making that unapproved excursion, but after hearing your message I don’t have the heart. Congratulations on your find at the cave. Hopefully the sample will confirm your assumption. And we are extremely excited about your discovery of the high-gauge wire. No one down here was aware that it was on board, but we are sure glad that you found it. If possible, please depart Mars at the next blast window, which should be 25 minutes from the time you receive this message. Over.”
 
