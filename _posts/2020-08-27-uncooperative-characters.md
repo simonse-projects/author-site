@@ -17,7 +17,7 @@ The author turned around to find a black-robed figure sitting in the La-z-boy re
 
 “No. Terry Pratchett already played that card, and much better than I ever could. Besides, I kind of maxed out on capital letters in my first novel, _The Coyote_. I’m afraid my computer will run out of them if I keep it up.”
 
-“How about a different font, then? Something powerful and ominous?” Death suggested.
+**“How about a different font, then? Something powerful and ominous?”** Death suggested.
 
 “Better, but I dunno … I was thinking more along the lines of a romantic comedy /magical pirate western, with maybe a sci-fi teenage slasher horror vibe. Something with gratuitous sex and violence but conveying a compassionate message that all mankind can embrace.”
 
