@@ -9,7 +9,7 @@ The author stared at the blank screen and willed himself to think of a storyline
 
 “Death is always a good character,” suggested Death.
 
-The author turned around to find a black-robed figure sitting in the la-z-boy recliner. A black-handled scythe was leaning against the grandfather clock. The grim reaper held a can of hard cider in one bony hand and some peanuts in the other. Every few seconds, he would toss a peanut into the dark void of his cowl where it disappeared, never to return. The remaining peanuts trembled with fear.
+The author turned around to find a black-robed figure sitting in the La-z-boy recliner. A black-handled scythe was leaning against the grandfather clock. The grim reaper held a can of hard cider in one bony hand and some peanuts in the other. Every few seconds, he would toss a peanut into the dark void of his cowl where it disappeared, never to return. The remaining peanuts trembled with fear.
 
 “I already wrote a short story about Death,” said the author. “You were on a beach, remember? And stop eating my peanuts.”
 
