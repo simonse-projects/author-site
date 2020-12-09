@@ -5,6 +5,7 @@ layout: default
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
+    <p>Please click on the story title to read it.</p>
   {%- endif -%}
 
   {{ content }}
@@ -33,6 +34,9 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+          <a class="continue" href="{{ post.url | relative_url }}">
+            Continue reading ->
+          </a>
         {%- endif -%}
       </li>
       {%- endfor -%}
